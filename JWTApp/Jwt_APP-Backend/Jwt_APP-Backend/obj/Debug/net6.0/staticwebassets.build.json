@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pJz9CXa9Wm71oQtSuhwwBysHlCibev/NFsf2mjtKY3Q=",
+  "Source": "Jwt_APP-Backend",
+  "BasePath": "_content/Jwt_APP-Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
